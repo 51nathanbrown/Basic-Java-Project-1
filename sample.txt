@@ -1,0 +1,21 @@
+This is a sample text file used as input for Project 2. It contains regular
+English text in sentences and paragraphs that are analyzed by the program.
+
+The program counts the number of lines in the input file, as well as the
+total number of words. It also counts the number of long words in the file.
+A word is considered long if it has more than five characters. The program
+also counts the number of sentences by counting the number of periods in
+the file.
+
+Finally, the program counts the number of capitalized words in the input
+file. It uses a separate method to determine if a word is capitalized.
+
+Blank lines will count toward the line count, but do not contribute any
+words.
+
+This program uses Scanner objects in three ways. One Scanner object is used
+to read the file name that the user types at the keyboard. Another Scanner
+is used to read each line in the file, and the third is used to parse the
+individual words on the line.
+
+This concludes this sample input file. Have a nice day.

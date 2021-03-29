@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TextAnalyzer
+comment0.text=\r\n\ A\ class\ that\ analyzes\ a\ text\ file\r\n\ @author\ Nathan\ Brown\r\n\ @version\ 10/10/2019\r\n
+comment1.params=input
+comment1.target=java.lang.Boolean\ wordIsCapitalized(java.lang.String)
+comment1.text=\r\n\ Computes\ whether\ a\ string\ is\ capitalized\r\n\ @param\ input\ that\ is\ evaluated\r\n\ @return\ Boolean\ value,\ true\ if\ capitalized,\ false\ if\ not\r\n
+comment2.params=
+comment2.target=void\ analyze()
+comment2.text=\r\n\ \r\n
+numComments=3
